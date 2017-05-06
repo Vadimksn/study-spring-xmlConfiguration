@@ -1,0 +1,12 @@
+Event {id = 81, message = Some event for userR John Smith, date = 20.04.2017 12:41:05}
+Event {id = 1, message = Some event for userRRR John Smith, date = 20.04.2017 12:41:05}
+Event {id = 36, message = Some event for userR John Smith, date = 20.04.2017 13:34:00}
+Event {id = 38, message = Some event for userRRR John Smith, date = 20.04.2017 13:34:00}
+Event {id = 61, message = Some event for userR John Smith, date = 20.04.2017 13:34:10}
+Event {id = 97, message = Some event for userRRR John Smith, date = 20.04.2017 13:34:10}
+Event {id = 26, message = Some event for userR John Smith, date = 20.04.2017 13:35:44}
+Event {id = 65, message = Some event for userRRR John Smith, date = 20.04.2017 13:35:45}
+Event {id = 85, message = Some event for userR John Smith, date = 21.04.2017 13:04:41}
+Event {id = 76, message = Some event for userRRR John Smith, date = 21.04.2017 13:04:41}
+Event {id = 97, message = Some event for userR John Smith, date = 06.05.2017 22:12:59}
+Event {id = 52, message = Some event for userRRR John Smith, date = 06.05.2017 22:12:59}

@@ -1,0 +1,8 @@
+2017-04-14 17:39:25 INFO  ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@53e25b76: startup date [Fri Apr 14 17:39:25 EEST 2017]; root of context hierarchy
+2017-04-14 17:39:25 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring.xml]
+2017-04-14 17:39:26 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [loggers.xml]
+2017-04-14 17:39:26 INFO  ClassPathXmlApplicationContext:987 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@53e25b76: startup date [Fri Apr 14 17:39:25 EEST 2017]; root of context hierarchy
+2017-04-14 17:44:56 INFO  ClassPathXmlApplicationContext:582 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@53e25b76: startup date [Fri Apr 14 17:44:56 EEST 2017]; root of context hierarchy
+2017-04-14 17:44:56 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [spring.xml]
+2017-04-14 17:44:56 INFO  XmlBeanDefinitionReader:317 - Loading XML bean definitions from class path resource [loggers.xml]
+2017-04-14 17:44:57 INFO  ClassPathXmlApplicationContext:987 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@53e25b76: startup date [Fri Apr 14 17:44:56 EEST 2017]; root of context hierarchy
